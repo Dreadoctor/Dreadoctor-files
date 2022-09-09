@@ -1,0 +1,33 @@
+
+body {
+   background-color: hsl(212, 45%, 89%) ; 
+   text-align: center;
+}
+div, img{
+    max-width: 1440px;
+    border: none;
+    border-radius: 16px;
+    background-color:  hsl(0, 0%, 100%);
+    text-align: center;
+}
+ .code{
+    margin: 200px auto;
+    width: 375px;
+}
+.widt{
+    width: 340px;
+    margin-top: 17px;
+}
+
+p {
+    color: hsl(210, 11%, 64%);
+    Font-size: 17px;
+    font-family:'Lucida Sans'
+}
+h2 {
+    font-family:'Lucida Sans' ;
+    font-weight: 400, 700;
+}
+h2, p {
+    padding: 0px 22px;
+}
